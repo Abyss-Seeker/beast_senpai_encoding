@@ -7,3 +7,4 @@
 <p>有人在试图制作语音包（bushi<p>
 
 <p>玩的开心！:D<p>
+<img src="https://pic1.zhimg.com/50/v2-f8920931f7f0ccefaad908344174c2b0_720w.jpg?source=1940ef5c" data-size="17322" class="normal-img" data-index="0" data-type="preview" style="width: 198px; height: 184px;">
